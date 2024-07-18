@@ -1,0 +1,11 @@
+{
+  "name": "exam_preparation",
+  "version": "1.0.0",
+  "description": "Material For GIAIC Exams",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Syed Wali Hussain Rizvi",
+  "license": "ISC"
+}
